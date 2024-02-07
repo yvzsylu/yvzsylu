@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yavuz Soylu</h1>
 <h3 align="center">Full Stack .Net developer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [yavuzsoylu.com.tr](yavuzsoylu.com.tr)
+- 👨‍💻 All of my projects are available at <a href="https://yavuzsoylu.com.tr" target="blank">yavuzsoylu.com.tr</a>
+
 
 - 💬 Ask me about **C#,Python,Javascript**
 
